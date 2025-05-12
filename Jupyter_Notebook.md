@@ -41,28 +41,6 @@ arithmetic operations to demonstrate basic programming capabilities.
 
 
 ```python
-## Some of the commonly used libraries used by Data Scientists include:
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Scikit-learn  
-- TensorFlow  
-- ggplot2  
-```
-
-
-```python
-## Some of the commonly used libraries used by Data Scientists include:
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Scikit-learn  
-- TensorFlow  
-- ggplot2  
-```
-
-
-```python
 
 ```
 
